@@ -1,7 +1,7 @@
 # PursuedPyBear Tutorial
 
 Build games from scratch using `ppb`. All tutorials are Python 3.6 and
-rely one `ppb`, `ppb_vector`, and `pygame`.
+rely on `ppb`, `ppb_vector`, and `pygame`.
 
 ## How To Use This Repository
 
